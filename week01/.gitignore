@@ -1,0 +1,4 @@
+# 만약 특정 로그 파일만 올리고 싶다면 나머지는 제외
+# .bash_history 같은 파일 방지
+.DS_Store
+node_modules/
